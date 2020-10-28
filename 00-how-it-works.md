@@ -17,7 +17,7 @@ Toda vez que digitamos www.google.com em nosso navegador uma série de operaçõ
   1. A primeira coisa que o nosso navegador faz e uma requisição para um servidor muito especial chamado **DNS**, esse servidor é responsável por nos dar o endereço do servidor (**IP Address**) que precisamos, no nosso caso o do Google.
 
 
-  2. O servidor **DNS** devolve para o navegador o **IP** do servidor requisitado. Como os computadores são encontrados através do **IP** e não por seus nomes esses servidores **DNS** armazenam em uma tabela gigante o nome de todos os sites do mundo e seus respectivos **IP's**. Imaginem termos que decorar os números de todos os sites, Obrigado **DNS**! :heart: :heart: :heart:
+  2. O servidor **DNS** devolve para o navegador o **IP** do servidor requisitado. Como os computadores são encontrados através do **IP** e não por seus nomes esses servidores **DNS** armazenam em uma tabela gigante o nome de todos os sites do mundo e seus respectivos **IP's**. Imaginem termos que decorar os números de todos os sites, Obrigado **DNS**! ❤️ ❤️ ❤️
 
 
   3. Com esse endereço em mãos nosso navegador agora envia uma segunda requisição ao endereço IP do Google usando um protocolo chamado **HTTP** (pense no HTTP como um idioma que o seu navegador irá usar para conversar com o servidor)
