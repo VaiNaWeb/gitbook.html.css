@@ -141,7 +141,7 @@ Nem só de títulos vive um texto, para descrever nosso conteúdo escrito temos 
 
 ### Listas
 
-Também podemos exibir listas em nossos documentos usando tags. Temos 2 opções uma tag para listar ordenadas e outra para listas não ordenadas:
+Também podemos exibir listas em nossos documentos. Temos 2 opções, uma tag para listas ordenadas e outra para listas não ordenadas:
 
 #### Listas ordenadas:
 
