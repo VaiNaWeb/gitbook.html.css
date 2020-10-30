@@ -37,4 +37,4 @@ Toda vez que digitamos www.google.com em nosso navegador uma série de operaçõ
 
 **HTTP** - um protocolo de comunicação que o seu navegador usa para "conversar" com o servidor (uma especie de idioma baseado no padrão de requisição-resposta)
 
-![enter image description here](https://media.giphy.com/media/42D3CxaINsAFemFuId/giphy.gif)
+![bye bye](https://media.giphy.com/media/42D3CxaINsAFemFuId/giphy.gif)
