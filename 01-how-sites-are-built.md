@@ -26,7 +26,7 @@ Exemplo de um documento HTML:
 
 ### CSS
 
-O **CSS** por sua vez tem uma função puramente estética: ele serve para modificar a aparencia dos documentos **HTML**, CSS - Cascading Style Sheets ou em português: Folha de Estilos em Cascata. É um mecanismo muito poderoso para personalizar os documentos **HTML** usando uma série de propriedades que modificam tamanhos, espaços, posicionamento, cores, fontes, etc.
+O **CSS** por sua vez tem uma função puramente estética: ele serve para modificar a aparencia dos documentos **HTML**. O **CSS** - Cascading Style Sheets ou em português: Folha de Estilos em Cascata. É um mecanismo muito poderoso para personalizar os documentos **HTML** usando uma série de propriedades que modificam tamanhos, espaços, posicionamento, cores, fontes, etc.
 
 Exemplo de um documento CSS:
 
