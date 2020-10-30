@@ -115,7 +115,7 @@ Todos os documentos possuem títulos. Eles expresssam a hierarquia do nosso cont
 
 ### Parágrafos
 
-Nem só de títulos vive um texto, para descrever nosso conteúdo escrito temos uma tag especial chamada **p** (esse p vem de paragraph - parágrafo) e pode ser usado da seguinte forma:
+Nem só de títulos vive um texto, para descrever nosso conteúdo escrito temos uma tag especial chamada **p** (esse **p** vem de paragraph - parágrafo) e pode ser usado da seguinte forma:
 
 ```
 <!DOCTYPE html>
