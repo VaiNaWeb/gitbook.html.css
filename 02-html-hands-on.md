@@ -213,4 +213,10 @@ Também podemos fazer uso de medias em nossos documentos, as imagens são um ót
 </html>
 ```
 
-Notem que diferentemente das outras tags as imagens não são compostas de um par de abertura/fechamento e são utilizadas do seguinte modo: **<img src="" alt="" />**. Os 2 atributos presentes na tag indicam o endereço da imagem a ser carregado (**src**) e uma mensagem alternativa caso a imagem não seja carregada (**alt**).
+Notem que diferentemente das outras tags as imagens não são compostas de um par de abertura/fechamento e são utilizadas do seguinte modo:
+
+```
+  <img src="" alt="" />
+```
+
+Os 2 atributos presentes na tag indicam o endereço da imagem a ser carregado (**src**) e uma mensagem alternativa caso a imagem não seja carregada (**alt**).
