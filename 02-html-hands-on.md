@@ -92,7 +92,7 @@ Aqui entra efetivamente o conteúdo da página, é onde vamos passar a maior par
 
 ### Títulos
 
-Todos os documentos possuem títulos eles expresssam a hierarquia do nosso conteúdo e no **HTML** não é diferente, temos 6 níveis de títulos disponíveis que são usados da seguinte forma:
+Todos os documentos possuem títulos. Eles expresssam a hierarquia do nosso conteúdo e no **HTML** não é diferente, temos 6 níveis de títulos disponíveis que são usados da seguinte forma:
 
 ```
 <!DOCTYPE html>
