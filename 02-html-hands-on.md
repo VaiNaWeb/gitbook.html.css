@@ -189,11 +189,11 @@ Também podemos exibir listas em nossos documentos. Temos 2 opções, uma tag pa
 </html>
 ```
 
-Usamos a tag **<ol></ol>** para representar listas ordenadas, ou seja os items dessa lista serão numerados.
+Usamos a tag **ol** para representar listas ordenadas, ou seja os items dessa lista serão numerados.
 
-As listas não ordenadas, sem numeração, são criadas pela tag **<ul></ul>**.
+As listas não ordenadas, sem numeração, são criadas pela tag **ul**.
 
-Os items de ambas as listas são expressos pela tag **<li></li>**.
+Os items de ambas as listas são expressos pela tag **li**.
 
 ### Imagens
 
