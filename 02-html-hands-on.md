@@ -1,4 +1,4 @@
-## HTML na prática: Títulos, Textos, Listas e Imagens
+## HTML na prática: Títulos, Textos, Listas, Imagens e Links
 
 ### O que é uma TAG?
 
@@ -220,3 +220,20 @@ Notem que diferentemente das outras tags as imagens não são compostas de um pa
 ```
 
 Os 2 atributos presentes na tag indicam o endereço da imagem a ser carregado (**src**) e uma mensagem alternativa caso a imagem não seja carregada (**alt**).
+
+### Links
+
+O link é a tag fundamental da web, graças a ela nós conseguimos associar os diferentes sites existentes
+na internet criando o que chamamos de rede. Vamos ver um exemplo:
+
+```
+  <a href="https://www.google.com.br">Google</a>
+```
+
+```
+  <a href="about.html">Sobre</a>
+```
+
+A tag **a** (link) possúi um atributo chamado **href** onde podemos especificar para onde o usuário será
+enviado quando ele clicar, esse redirecionamento pode ser para uma página interna ou um site externo.
+
