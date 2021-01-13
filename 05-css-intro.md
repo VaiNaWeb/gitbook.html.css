@@ -126,3 +126,5 @@ O termo **cascata** está presente no nome da tecnologia, obviamente ele deve se
 ```
 
 Se testarmos o código acima no nosso navegador veremos que o texto terá a cor roxa isso significa que o **navegador** aplicou o segundo **seletor** e ignorou o primeiro. Esse é o conceito de **cascata**: **Quando duas regras se aplicam ao mesmo elemento e tem a mesma especificidade a que vier por último será usada**.
+
+![bye bye](https://media.giphy.com/media/gHVEO9ydQDDl4AJcfc/giphy.gif)
