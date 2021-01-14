@@ -82,8 +82,8 @@ Diferente do **seletor** de **id** esse **seletor** irá ser aplicado em qualque
 
 ### Dicas
 
-**Use o seletor de tag apenas para sobrescrever regras do navegador!**
-**Sempre use o seletor de classe para estilizar a sua página!**
+**Use o seletor de tag apenas para sobrescrever regras do navegador!**  
+**Sempre use o seletor de classe para estilizar a sua página!**  
 
 Escolher como chamar a sua **classe** é muito difícil no começo, aqui vão algumas dicas:
 
