@@ -91,4 +91,7 @@ Escolher como chamar a sua **classe** é muito difícil no começo, aqui vão al
 
 - Use nomes em inglês! Como todos sabemos a internet respira esse idioma e a maioria das pessoas no mundo também programam nele. Com o tempo você vai perceber que a maioria dos elementos ja tem um ou dois nomes que quse todo mundo usa. Não desanime, persista nesse hábito!
 
-- Ainda tem dúvidas no nome? Procure um site que usa um **layout** parecido inspecione o elemento e veja qual o nome da **classe** ele usa. Provavelmente você irá encontral alguem que já pensou nesse nome antes
+- Ainda tem dúvidas no nome? Procure um site que usa um **layout** parecido inspecione o elemento e veja qual o nome da **classe** ele usa. Provavelmente você irá encontral alguem que já pensou nesse nome antes.
+
+![bye bye](https://media.giphy.com/media/QM5lHSyFjz1XW/giphy.gif)
+
