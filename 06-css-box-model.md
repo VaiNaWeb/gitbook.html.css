@@ -50,10 +50,10 @@ As propriedades **width** e **height** definem a largura e a altura respectivame
 
 Temos outras 2 **propriedades** muito importantes: **margin** e **padding**, ambas adicionam espaço no elemento, enquanto a propriedade **margin** adiciona um espaço fora do elemento, o **padding** adiciona espaço dentro do elemento (dentro da borda). As outras propriedades adicionam uma **borda** e um **background** respectivamente.
 
-**width** - **Define a largura do elemento**
-**height** - **DEfine a altura do elemento**
-**margin** - **adiciona espaço entre o elemento e os outros em volta**
-**padding** - **adiciona espaço entre o conteúdo em si e a borda**
+**width** - **Define a largura do elemento**  
+**height** - **DEfine a altura do elemento**  
+**margin** - **adiciona espaço entre o elemento e os outros em volta**  
+**padding** - **adiciona espaço entre o conteúdo em si e a borda**  
 
 Inspecionando o quadrado no **browser** vamos ver que ele tem na verdade 180px de largura e 180px de altura mas foi especificado 150px por 150px, por que isso acontece?
 
