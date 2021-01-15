@@ -46,6 +46,8 @@ Com esse código inicial vamos ver uma quadrado vermelho na tela com 150px de la
 
 Vamos quebrar isso em partes:
 
+A primeira coisa que precisamos entender é que **todo elemento na nossa página representa uma caixa com uma largura e altura**.
+
 As propriedades **width** e **height** definem a largura e a altura respectivamente.
 
 Temos outras 2 **propriedades** muito importantes: **margin** e **padding**, ambas adicionam espaço no elemento, enquanto a propriedade **margin** adiciona um espaço fora do elemento, o **padding** adiciona espaço dentro do elemento (dentro da borda). As outras propriedades adicionam uma **borda** e um **background** respectivamente.
