@@ -34,7 +34,6 @@ Quando estamos começando no **CSS** sempre ficamos perdidos quando vemos determ
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
 <body>
@@ -66,7 +65,6 @@ Imagine o seguinte cenário:
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
 <body>
@@ -104,7 +102,6 @@ O termo **cascata** está presente no nome da tecnologia, obviamente ele deve se
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
 <body>

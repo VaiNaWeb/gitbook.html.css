@@ -25,7 +25,6 @@ O **seletor** de **id** é aplicado no elemento com o id especificado, por exemp
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
 <body>
@@ -57,7 +56,6 @@ Sem dúvidas o melhor e mais usado tipo de **seletor**, ele irá aplicar os esti
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
 <body>
