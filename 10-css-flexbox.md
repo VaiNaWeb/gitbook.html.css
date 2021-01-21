@@ -2,7 +2,7 @@
 
 O flexbox é a primeira tecnologia do **css** pensada para os layouts da
 web moderna, diferente das técnicas antigas (float, inline-block, position)
-ele traz a felxibilidade e a robustez necessária para se criar layouts complexos com mais facilidade.
+ele traz a flexibilidade e a robustez necessária para se criar layouts complexos com mais facilidade.
 
 ### Ativando o flexbox!
 
