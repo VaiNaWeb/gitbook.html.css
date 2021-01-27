@@ -84,7 +84,7 @@ Como vimos o **navegador** não define os tamanhos dos elementos de uma maneira 
   }
 ```
 
-Com essa propriedade nova (**box-sizing**) o nosso **navegador** irá respeitar os tamanhos especificados nas propriedades **width** e **height**. Se inspecionarmos nosso quadrado novamente vamos perceber que agora ele será renderizado com exatos 150px pror 150px
+Com essa propriedade nova (**box-sizing**) o nosso **navegador** irá respeitar os tamanhos especificados nas propriedades **width** e **height**. Se inspecionarmos nosso quadrado novamente vamos perceber que agora ele será renderizado com exatos 150px por 150px
 
 ### Dica Final
 
