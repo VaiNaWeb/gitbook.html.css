@@ -1,4 +1,4 @@
-## HTML na prática: Títulos, Textos, Listas, Imagens e Links
+## 02 - HTML na prática: Títulos, Textos, Listas, Imagens e Links
 
 ### O que é uma TAG?
 

@@ -1,4 +1,4 @@
-## Display
+## 08 - Display
 
 Vimos anteriormente que todos os nossos elementos funcionam como uma caixa e que essa caixa tem um certo tamanho (largura e altura). Vamos entender agora como essas caixas são posicionadas na tela e como alterar esse posicionamento com a propriedade **display**.
 

@@ -1,4 +1,4 @@
-## Como funciona a internet?
+## 00 - Como funciona a internet?
 
 Todos nós usamos diariamente diversos aplicativos e sites, a internet ocupa uma porção enorme de nossas vidas. Desde o entretenimento até o estudo, no trabalho ou em casa, nas relações com amigos ou pessoas do outro lado do mundo. Em quase todas as atividades do dia, de alguma forma, estamos usando a internet, ela muda diariamente, das mais diversas formas, as nossas profissões e acelera o desenvolvimento de todas as tecnologias: assistir um filme nunca foi tão rápido, aprender um novo idioma nunca foi tão fácil,  achar um livro nunca foi tão simples. É impossível viver no século XXI sem entender como usar essa ferramenta para melhorar nossas vidas.
 

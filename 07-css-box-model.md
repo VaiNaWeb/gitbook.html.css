@@ -1,4 +1,4 @@
-## CSS - Box Model
+## 07 - CSS: Box Model
 
 Entender o conceito de **box model** é importantíssimo para criar nossos layouts, vamos investigar como o **navegador** aplica os tamanhos que definimos no nosso **CSS** e as principais propriedades usadas.
 

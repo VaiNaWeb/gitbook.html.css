@@ -1,4 +1,4 @@
-## Como os sites são construídos?
+## 01 - Como os sites são construídos?
 
 Como ja sabemos, a internet trabalha no modelo **cliente/servidor**, no fim do dia tudo que o nosso navegador (cliente) faz é interpretar os arquivos que recebe do servidor e renderizar na tela. Mas que arquivos são esses? Existe algum padrão? Como esses arquivos são feitos?
 

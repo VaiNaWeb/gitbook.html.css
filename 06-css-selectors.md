@@ -1,4 +1,4 @@
-## Seletores CSS
+## 06 - Seletores CSS
 
 Como já sabemos, nós conseguimos modificar a aparência de nossos sites com o **CSS** e ele faz isso usando algo que chamamos de **seletor**. Vamos entender quais são os tipos de seletores e quando usá-los:
 

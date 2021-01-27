@@ -1,4 +1,4 @@
-## Medidas
+## 09 - Medidas
 
 Quando criamos nossos layouts usamos diversos tipos de medidas, usamos a medidas de diversas formas: para dar tamanho aos nossos elementos para especificar distâncias entre os elementos, para especificar o tamanho de textos e por ai vai. Vamos conhecer algumas medidas e entender quando usar cada uma delas.
 

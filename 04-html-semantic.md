@@ -1,4 +1,4 @@
-## Semântica & Acessibilidade
+## 04 - Semântica & Acessibilidade
 
 A internet foi inicialmente concebida como um meio para compartilhar documentos acadêmicos, com o
 passar dos anos ela se transformou em uma lugar onde as pessoas compartilham os mais variados tipos de documentos, imagens, videos, etc. Essa evolução drástica da internet não foi seguida pela evolução das tecnologias que a sustentam (**HTML**, **CSS**, **JavaScript**), por isso nos últimos anos as mentes brilhantes por trás dessas tecnologias começaram a adaptá-las para que servissem ao propósito da internet moderna, uma dessas novidades são as **tags semânticas**.

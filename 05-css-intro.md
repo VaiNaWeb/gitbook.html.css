@@ -1,4 +1,4 @@
-## CSS - Introdução
+## 05 - CSS
 
 Como ja vimos o **CSS - (Folha de Estilo em Cascata)** tem uma função estatética, usamos com o propósito de modificar a aparência dos elementos, vamos entender como isso isso acontece:
 
