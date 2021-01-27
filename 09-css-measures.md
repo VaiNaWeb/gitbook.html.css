@@ -1,10 +1,8 @@
-# 09-css-measures
-
-## 09 - Medidas
+# 09 - Medidas
 
 Quando criamos nossos layouts usamos diversos tipos de medidas, usamos a medidas de diversas formas: para dar tamanho aos nossos elementos para especificar distâncias entre os elementos, para especificar o tamanho de textos e por ai vai. Vamos conhecer algumas medidas e entender quando usar cada uma delas.
 
-### Pixel
+## Pixel
 
 O pixel é uma unidiade **fixa** que foi muito usada no passado para criar layouts, ele corresponde a um pixel da tela. \(Não é bem assim que funciona mas é uma forma de entender\).
 
@@ -31,7 +29,7 @@ Alguns exemplos:
 }
 ```
 
-### Porcentagem
+## Porcentagem
 
 Diferente do **pixel** as medidas em porcentagem são **relativas**, isso nos possibilita criar layouts flexíveis que se adaptam melhor a diferentes tamanhos de telas. Vamos entender isso com alguns exemplos:
 
@@ -68,7 +66,7 @@ Guarde isso:
 
 **A unidade de porcentagem sempre usará o elemento container como referência**
 
-### em
+## em
 
 Outra unidade relativa é o **em**, muito usado para especificar tamanhos de fontes e espaçamentos. Essa unidade usa o tamanho da fonte do container mais próximo para calcular seu tamanho, vamos ao exemplo:
 
@@ -99,7 +97,7 @@ Note que nós especificamos uma margem de **2em** na **classe** "box" o que esse
 
 Esse valor é calculado a partir do tamanho da fonte do container, ou seja, da propriedade **font-size** da classe "container". Como a classe "container" tem um **font-size** de **10px** temos então: **2em x 10px = 20px**.
 
-### rem
+## rem
 
 Diferente do **em** a unidade **rem** é sempre relativa ao tamanho da fonte da página, em outras palavras ao tamanho da fonte da tag **html**. Vamos ao exemplo:
 
