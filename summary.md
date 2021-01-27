@@ -1,16 +1,17 @@
-## Aulas:
+# Aulas:
 
 * [00 - Como Funciona a Internet?](00-how-it-works.md)  
 * [01 - Como os sites são construídos?](01-how-sites-are-built.md)  
 * [02 - HTML na prática: Títulos, Textos, Listas, Imagens e Links](02-html-hands-on.md)  
 * [03 - HTML na prática: Forms](03-html-forms.md)  
 * [04 - Semântica & Acessibilidade](04-html-semantic.md)  
-* [05 - CSS (Introdução)](05-css-intro.md)  
+* [05 - CSS \(Introdução\)](05-css-intro.md)  
 * [06 - Seletores CSS](06-css-selectors.md)  
 * [07 - CSS: Box Model](07-css-box-model.md)  
 * [08 - Display](08-css-display.md)  
 * [09 - Medidas](09-css-measures.md)  
 * [10 - Flexbox](10-css-flexbox.md)  
 * [11 - Tipografia & Cores](11-tiphography-colors.md)  
-* [12 - Position](12-positioning.md)  
+* [12 - Position](https://github.com/VaiNaWeb/gitbook.html.css/tree/a99e02e28c60949641c3deee2add86c1b217fed7/12-positioning.md)  
 * [13 - Layout Responsivo](13-css-responsive-design.md)  
+
