@@ -56,9 +56,13 @@ Diferente do **pixel** as medidas em porcentagem são **relativas**, isso nos po
 }
 ```
 
-No código acima temos 2 divs uma com a **classe** "wrapper" e outra com a **classe** "box", a **div** container tem um tamanho **fixo** de **500px** por **400px** já a **div** box tem um tamanho **relativo** de **50%** por **50%**. O que significa ser **relativo**? **50%** de que exatamente?
+No código acima temos 2 divs uma com a **classe** "wrapper" e outra com a **classe** "box", a **div** container tem um tamanho **fixo** de **500px** por **400px** já a **div** box tem um tamanho **relativo** de **50%** por **50%**.
 
-A unidade de **porcentagem** sempre usará o elemento container como referência para calcular o valor, no exemplo acima o container da div "box" é a div "wrapper". Isso significa que a box vai ter 50% da largura e 50% da altura da classe "wrapper" (250px de largura e 200px de altura).
+O que significa ser **relativo**?
+
+**50%** de que exatamente?
+
+A unidade de **porcentagem** sempre usará o elemento container como referência para calcular o valor, no exemplo acima o container da div **"box"** é a div **"wrapper"**. Isso significa que a **"box"** vai ter 50% da largura e 50% da altura da classe **"wrapper"** (250px de largura e 200px de altura).
 
 Guarde isso:
 
