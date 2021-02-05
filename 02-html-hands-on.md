@@ -160,7 +160,7 @@ Também podemos exibir listas em nossos documentos. Temos 2 opções, uma tag pa
     <li>Morango</li>
     <li>Pera</li>
     <li>Mamão</li>
-  <ol>
+  </ol>
 </body>
 </html>
 ```
@@ -183,7 +183,7 @@ Também podemos exibir listas em nossos documentos. Temos 2 opções, uma tag pa
     <li>Tartaruga</li>
     <li>Arraia</li>
     <li>Polvo</li>
-  <ul>
+  </ul>
 </body>
 </html>
 ```
