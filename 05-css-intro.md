@@ -1,6 +1,6 @@
 # 05 - CSS
 
-Como ja vimos o **CSS - \(Folha de Estilo em Cascata\)** tem uma função estatética, usamos com o propósito de modificar a aparência dos elementos, vamos entender como isso isso acontece:
+Como ja vimos o **CSS - \(Folha de Estilo em Cascata\)** tem uma função estética, usamos com o propósito de modificar a aparência dos elementos, vamos entender como isso isso acontece:
 
 ## Sintaxe
 
@@ -39,7 +39,7 @@ Quando estamos começando no **CSS** sempre ficamos perdidos quando vemos determ
   <div>
     <p>
       Meu parágrafo de texto, bla bla bla...
-    <p>
+    </p>
   </div>
 </body>
 </html>
@@ -70,12 +70,12 @@ Imagine o seguinte cenário:
   <div>
     <p>
       Kraken!!!
-    <p>
+    </p>
   </div>
 
   <p>
     Kelvin!!!
-  <p>
+  </p>
 </body>
 </html>
 ```
@@ -106,7 +106,7 @@ O termo **cascata** está presente no nome da tecnologia, obviamente ele deve se
 <body>
   <p>
     Olá!!!
-  <p>
+  </p>
 </body>
 </html>
 ```
