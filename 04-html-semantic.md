@@ -34,7 +34,7 @@ Alguns exemplos de tags semânticas são:
   <main>
     <header>
       <h1>José da Silva</h1>
-      <h2>Músico<h2>
+      <h2>Músico</h2>
     </header>
   </main>
 </body>
@@ -54,7 +54,7 @@ Alguns exemplos de tags semânticas são:
   <main>
     <section>
       <h1>Sobre Mim</h1>
-      <p>Eu começei minha carreira no ano de 1990...<p>
+      <p>Eu começei minha carreira no ano de 1990...</p>
     </section>
   </main>
 </body>
@@ -78,7 +78,7 @@ Alguns exemplos de tags semânticas são:
     </section>
 
     <aside>
-      <h3>Bateria<h3>
+      <h3>Bateria</h3>
       <p>A guitarra é um instrumento de cordas</p>
     </aside>
   </main>
