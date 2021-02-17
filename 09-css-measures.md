@@ -1,10 +1,10 @@
 # 09 - Medidas
 
-Quando criamos nossos layouts usamos diversos tipos de medidas, usamos a medidas de diversas formas: para dar tamanho aos nossos elementos para especificar distâncias entre os elementos, para especificar o tamanho de textos e por ai vai. Vamos conhecer algumas medidas e entender quando usar cada uma delas.
+Quando criamos nossos layouts usamos diversos tipos de medidas, usamos as medidas de diversas formas: para dar tamanho aos nossos elementos para especificar distâncias entre os elementos, para especificar o tamanho de textos e por ai vai. Vamos conhecer algumas medidas e entender quando usar cada uma delas.
 
 ## Pixel
 
-O pixel é uma unidiade **fixa** que foi muito usada no passado para criar layouts, ele corresponde a um pixel da tela. \(Não é bem assim que funciona mas é uma forma de entender\).
+O pixel é uma unidade **fixa** que foi muito usada no passado para criar layouts, ele corresponde a um pixel da tela. \(Não é bem assim que funciona mas é uma forma de entender\).
 
 Podemos usá-lo para especificar tamanhos de elementos, fontes e aplicar espaços, apesar das **unidades relativas** serem mais apropriadas hoje em dia ele ainda é bastante utilizado.
 
@@ -37,7 +37,7 @@ Diferente do **pixel** as medidas em porcentagem são **relativas**, isso nos po
 <div class="wrapper">
   <div class="box">
   </div>
-<div>
+</div>
 ```
 
 ```text
@@ -74,7 +74,7 @@ Outra unidade relativa é o **em**, muito usado para especificar tamanhos de fon
   <div class="wrapper">
     <div class="box">
     </div>
-  <div>
+  </div>
 ```
 
 ```text
@@ -105,7 +105,7 @@ Diferente do **em** a unidade **rem** é sempre relativa ao tamanho da fonte da 
   <div class="wrapper">
     <div class="box">
     </div>
-  <div>
+  </div>
 ```
 
 ```text
