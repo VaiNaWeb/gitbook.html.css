@@ -80,7 +80,7 @@ Outra unidade relativa é o **em**, muito usado para especificar tamanhos de fon
 ```text
 .wrapper {
   width: 500px;
-  height: 400px
+  height: 400px;
   font-size: 10px;
   margin: 20px auto;
 }
@@ -110,12 +110,12 @@ Diferente do **em** a unidade **rem** é sempre relativa ao tamanho da fonte da 
 
 ```text
 html {
-  font-size: 16px
+  font-size: 16px;
 }
 
 .wrapper {
   width: 500px;
-  height: 400px
+  height: 400px;
   font-size: 10px;
   margin: 20px auto;
 }
