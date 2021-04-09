@@ -33,5 +33,3 @@ Toda vez que digitamos www.google.com em nosso navegador uma série de operaçõ
 
 ![bye bye](https://media.giphy.com/media/42D3CxaINsAFemFuId/giphy.gif)
 
-# DESENVOLVIDO POR LUAN
-
